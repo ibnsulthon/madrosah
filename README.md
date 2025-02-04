@@ -1,5 +1,5 @@
 # madrosah
-Madrosah Firqotun Najiyah (مدرسة الفرقة الناجية)
+Madrosah Firqotun-Najiyah (مدرسة الفرقة الناجية)
 ## License  
 This work is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.  
 For details, see the [LICENSE](./LICENSE) file or visit  
